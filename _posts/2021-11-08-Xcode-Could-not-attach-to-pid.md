@@ -2,7 +2,7 @@
 layout: post
 title:  "How to fix Xcode  Could not attach to pid Error"
 date:   2021-11-08 16:53:24 +0800
-categories: xcode kb
+categories: kb
 ---
 
 While i was debug a desktop app on xcode, then an error popup:
