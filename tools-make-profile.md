@@ -26,7 +26,7 @@ Make airprint profile in case you cannot find specific printer in LAN.
 </fieldset>
 <script>
 const downloadBlobAsFile = function(data, filename){
-	const contentType = 'application/octet-stream';
+	const contentType = 'application/x-apple-aspen-config';
 	if(!data) {
 		console.error('No data')
 		return;
@@ -97,6 +97,6 @@ function build(){
 	<integer>1</integer>
 </dict>
 </plist>`
-    downloadBlobAsFile(profile, "c.mobileconfig");
+    downloadBlobAsFile(profile, "airprint.mobileconfig");
 }
 </script>
