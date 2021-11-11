@@ -1,6 +1,7 @@
 title: Xinsheng's Blog
+description: Record the journey of my life
 email: xinshg@gmail.com
 
-theme: minima
-
 issues_repo: xinsheng/xinsheng.github.io
+
+theme: jekyll-theme-midnight
