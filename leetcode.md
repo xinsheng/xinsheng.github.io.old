@@ -5,5 +5,4 @@ categories: tools
 permalink: /leetcode/
 ---
 
-My LeetCode Solutions:
-https://github.com/xinsheng/leetcode
+[https://github.com/xinsheng/leetcode](https://github.com/xinsheng/leetcode)
