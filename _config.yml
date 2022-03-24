@@ -4,6 +4,6 @@ email: xinshg@gmail.com
 
 issues_repo: xinsheng/xinsheng.github.io
 
-theme: slate
-minima:
-  skin: dark
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
