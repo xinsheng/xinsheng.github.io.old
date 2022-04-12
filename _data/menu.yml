@@ -1,8 +1,10 @@
 entries:
-  - title: about me
+  - title: me
     entries:
       - title: email
-        mailto: xinshg@outlook.com
+        url: mailto:xinshg@outlook.com
+      - title: about
+        url: about
 
   - title: tools
     entries:
