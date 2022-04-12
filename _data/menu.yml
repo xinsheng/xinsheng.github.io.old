@@ -1,0 +1,10 @@
+entries:
+  - title: about me
+    entries:
+      - title: email
+        mailto: xinshg@outlook.com
+
+  - title: tools
+    entries:
+      - title: AirPrint profile maker
+        url: tools-profile-maker
