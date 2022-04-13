@@ -13,3 +13,10 @@ entries:
     entries:
       - title: AirPrint profile maker
         url: tools-profile-maker
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
