@@ -3,6 +3,14 @@ layout: page
 title: about
 ---
 
-```cpp
-printf("i haven't made up my mind what to say :)\n");
-```
+He is a very eager to learn new knowlege.
+While in spare time, he likes hiking.
+
+Favirate games:
+
+- The Legend of Zelda: Breath of the Wild
+- Pokémon Unite
+
+Favirate movies:
+
+- Les Misérables
