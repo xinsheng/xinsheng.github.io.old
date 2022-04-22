@@ -13,6 +13,8 @@ entries:
     entries:
       - title: AirPrint profile maker
         url: tools-profile-maker
+      - title: My Leetcode Solutions
+        url: https://github.com/xinsheng/leetcode
 
   - title: all posts
     post_list:
